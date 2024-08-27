@@ -1,0 +1,70 @@
+.table tbody tr td {
+    height: 100px;
+    vertical-align: top;
+    position: relative;
+}
+
+.table tbody tr td:hover {
+    background-color: #f8f9fa;
+}
+
+.event {
+    background-color: #28a745;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 12px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.current-date {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.fc{
+    color:black;
+    
+}
+#currentMonth{
+    color:black;
+}
+.table-light tr th{
+    color:green;
+    background-color:aqua;
+}
+.btn-outline-primary:hover
+{
+    background-color: aqua;
+    color:black;
+}
+.bg{
+    background-color:green;
+}
+.bg_body{
+    background-color:yellowgreen;
+}
+.space{
+    border-collapse: separate !important;
+    border-spacing:5px;
+}
+#eventForm  .btn-primary{
+    background-color: aqua;
+    color:black;
+}
+.b_grey
+{
+    background-color:grey;
+}
+div #nextMonth{
+    background-color:aqua;
+}
+div #prevMonth{
+    background-color:aqua;
+}
